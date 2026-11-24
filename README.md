@@ -1,6 +1,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角低空拍摄甜菜苗与杂草检测数据集VOC+YOLO格式4306张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJ9ubA==">下载</a></td></tr>
+<tr><td>无人机视角航拍大型露天矿场和工业采石场的汽车和工程车检测数据集VOC+YOLO格式244张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJ1vaA==">下载</a></td></tr>
+<tr><td>无人机视角航拍农用玉米地雄穗玉米穗检测数据集VOC+YOLO格式1979张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJxwZA==">下载</a></td></tr>
+<tr><td>无人机视角建筑外立面多模态病害建筑立面缺陷分割的像素级对齐RGB-IR图像红外可见光严格对齐数据集</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJtpaQ==">下载</a></td></tr>
+<tr><td>无人机视角可见光红外配对火焰烟雾检测数据集YOLO格式1280对图像2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJluZw==">下载</a></td></tr>
 <tr><td>无人机视角航拍工程车辆检测数据集VOC+YOLO格式1044张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl59tZg==">下载</a></td></tr>
 <tr><td>无人机视角航拍大棚与房屋损坏缺陷受灾房屋大棚状态检测数据集VOC+YOLO格式463张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl59rZQ==">下载</a></td></tr>
 <tr><td>无人机森林烟火火灾识别分割数据集labelme格式426张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5tuZg==">下载</a></td></tr>
